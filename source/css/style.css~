@@ -1,7 +1,5 @@
 /* ==== Google font ==== */
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,700,900);
-@import url('http://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700');
-@import url(http://fonts.googleapis.com/css?family=Poppins:500,600,700);
+@import url(http://fonts.googleapis.com/css?family=Handlee|Merriweather+Sans|Merriweather:400,300italic,400italic|Bad+Script|Limelight);
 *{
 	padding:0;
 	margin:0;
@@ -11,7 +9,7 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: 'Ek Mukta', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
 	font-weight: 300;
     color: #666;
     background-color: #fff;
@@ -52,7 +50,7 @@ h4,
 h5,
 h6 {
     margin: 0 0 30px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Limelight' ,sans-serif;
     font-weight: 400;
 	color: #111;
 }
@@ -157,7 +155,7 @@ blockquote strong {
 	color: #111;
 	text-transform: uppercase;
 	font-size: 32px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Limelight', sans-serif;
 	font-weight: 900;
 	margin-top: 20px;
 }
