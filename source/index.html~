@@ -44,6 +44,48 @@
       </div>
    </section>
 
+<!-- Modal -->
+<div class="modal fade" id="infomodal" data-backdrop="false" style="">
+                  <div class="modal-dialog">
+	             <div class="modal-content">
+		        <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="padding-bottom:4px;"><span aria-hidden="true">&times;</span></button>
+			</div>
+                        <div class="modal-body" style="font-size:90%;">
+			   <br><br><br><br><div><p>The ceremony will begin at 5:00pm and the reception will start shortly after its conclusion. Both the wedding and reception will take place outdoors. Dress is semiformal; we're not worried about what everyone will be wearing so we hope you won't worry about it either. Be comfortable! Or knock yourself out and dress to the 9's, we'll just be glad to see you!</p>
+                           <br></div>
+                           <div class="divider-header"></div>
+                           <div><br>
+                           <p>Bayvue Estate is located in Susan, VA. You can get there in about an hour and a half from Virginia Beach and thirty minutes from Gloucester, VA. Ample parking will be available on site. You may notice the address for Bayvue Estate doesn't work properly on all map software. It's a very remote location so here are a couple of things to make it easier:<br><br>
+			• Bellevue Road is right off of New Point Comfort Highway in Susan, VA. You may find the highway easier to search for and find on google maps. When you get there Bellevue Road is on the south side on New Point Comfort Highway. Just follow Bellevue Road around the bend and you'll see there's a wedding about to happen down the street! That'll be us. <br>
+			• You can also point yourself toward the Courthouse Restaurant in Gloucester, VA and then <a href="goo.gl/maps/AQhzi" target="map">click on the link here</a> to see directions from there. <br>
+			<br></p></div>
+                        <div class="divider-header"></div>
+			<div><br>
+			<p>If you are joining us from out of town (or state), you may wish to book a hotel reservation in advance. We do not have a group rate with any hotel but we've listed the three closest hotels to Bayvue Estate we can recommend below. If you think you'd rather stay in Williamsburg you can check rates in the area <a href="goo.gl/qvovWw" target="results2">here</a>, or for rates in Virginia Beach click <a href="goo.gl/ytJgxG" target="results2">here</a>.<br>
+			• <a href="innattabbscreek.com" target="hotel1">The Inn at Tabbs Creek</a>($$)<br>
+			• <a href="bluewaterhaven.com" target="hotel2">Blue Water Haven</a>($$$)<br>
+			• <a href="goo.gl/razGG6" target="hotel3">Hampton Inn Gloucester</a>($)<br></p>
+			<br></div>
+                        <div class="divider-header"></div>
+			<div><br>
+			<p>If you have any questions, comments, concerns, playlist requests, or accommodation inquiries, feel free to contact Erica or Josh: <a href="mailto:ericaplusjosh@outlook.com" target="email">ericaplusjosh@outlook.com</a>.</p></div>
+
+
+                        </div>
+                        <div class="modal-footer">
+                           <button class="btn btn-skin" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">close</span></button>
+
+
+                        </div>
+
+
+                     </div>
+	          </div>
+	       </div>
+               
+<!-- /Modal -->
+
 <!-- Navigation -->
 <div id="navigation">
    <nav class="navbar navbar-custom" role="navigation">
@@ -190,31 +232,7 @@
                <p style="font-family: 'Limelight';font-size:125%;">
 		Click below for further details
 	       </p>
-               <button type="button" class="btn btn-skin" data-toggle="modal" data-target="#infomodal">Test</button>   
-               <div class="modal" id="infomodal" data-backdrop="false">
-                  <div class="modal-dialog">
-	             <div class="modal-content">
-		        <div class="modal-header">
-		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			   header
-
-
-                        </div>
-                        <div class="modal-body">
-			   body
-
-
-                        </div>
-                        <div class="modal-footer">
-                           footer
-
-
-                        </div>
-
-
-                     </div>
-	          </div>
-	       </div>
+               <button type="button" class="btn btn-skin" data-toggle="modal" data-target="#infomodal">More Info</button>   
                
             
          </div>
